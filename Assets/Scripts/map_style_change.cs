@@ -8,20 +8,16 @@ public class map_style_change : MonoBehaviour
 
     public void Change_to_default_map(){
         GameObject activeMap = GameObject.FindWithTag("Map");
-        Debug.Log(activeMap);
         if(activeMap){
             Sprite map = activeMap.GetComponent<map_styles>().defaultMap;
-            Debug.Log(map);
             activeMap.GetComponent<SpriteRenderer>().sprite = map;
         }
     }
 
     public void Change_to_alternative_map(){
         GameObject activeMap = GameObject.FindWithTag("Map");
-        Debug.Log(activeMap);
         if(activeMap){
             Sprite map = activeMap.GetComponent<map_styles>().alternativeMap;
-            Debug.Log(map);
             activeMap.GetComponent<SpriteRenderer>().sprite = map;
         }
     }
