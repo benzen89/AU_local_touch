@@ -1008,6 +1008,7 @@ GameObject:
   - component: {fileID: 73901651}
   - component: {fileID: 73901652}
   - component: {fileID: 73901653}
+  - component: {fileID: 73901654}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1162,6 +1163,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2661802b8f38d724c84057619639770a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &73901654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 73901645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c04c866bd65e274584eb37d0ef8d53c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &74907116
@@ -15318,17 +15331,17 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 383
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1964
+      value: 733
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 30
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
         type: 3}
@@ -15389,8 +15402,17 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 670224309865224971, guid: 9dc75f944e4aedb43b40b99c03a69aa1,
+      objectReference: {fileID: 2100000, guid: f35c76f12b3ada248b8ec34593d88971, type: 2}
+    - target: {fileID: -1504981713932161579, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
         type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1504981713932161579, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 2f0d0b52daecd7142b07b040b1cdb5a8,
         type: 3}
       propertyPath: m_Name
@@ -15819,6 +15841,17 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 2711347904959555944, guid: a5f16e4931cb3cd42b385d757080d72c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 73901654}
+        m_MethodName: StopVideo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -21639,6 +21672,17 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 3985217112099053192, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 73901654}
+        m_MethodName: StopVideo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
