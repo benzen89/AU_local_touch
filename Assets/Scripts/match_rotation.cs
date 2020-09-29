@@ -7,7 +7,7 @@ public class match_rotation : MonoBehaviour
     
     public GameObject modelObj;
 
-    void Update()
+    void LateUpdate()
     {
         transform.rotation = modelObj.transform.rotation;
     }
