@@ -564,13 +564,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 73901650}
-        m_MethodName: Change_Mini_Map
+      - m_Target: {fileID: 73901652}
+        m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 14cf10dc77be29547a45f47d47f22b91,
+          m_ObjectArgument: {fileID: 6985151188141216687, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -580,7 +580,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 73603a4c303ff744abee4f984d1ae9a9,
+          m_ObjectArgument: {fileID: 21300000, guid: 6a79a57937c91ca4894a872c1a224dfe,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -8232,7 +8232,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &578680090
 Transform:
   m_ObjectHideFlags: 0
@@ -8261,6 +8261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 581065405}
   - component: {fileID: 581065406}
+  - component: {fileID: 581065407}
   m_Layer: 8
   m_Name: viimsi_map
   m_TagString: Map
@@ -8332,6 +8333,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &581065407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581065404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db94f0bb03aa4146b0e9484e39a04e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultMap: {fileID: 21300000, guid: d02443c8b7a199b4db2792b934fea95a, type: 3}
+  alternativeMap: {fileID: 0}
 --- !u!1 &584031658
 GameObject:
   m_ObjectHideFlags: 0
@@ -10334,7 +10349,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1667913402}
   m_Direction: 2
   m_Value: 0.99999976
-  m_Size: 0.48705313
+  m_Size: 0.4702545
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -13560,7 +13575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5db94f0bb03aa4146b0e9484e39a04e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMap: {fileID: 21300000, guid: 5e574a446403a61499b529af15ce7eea, type: 3}
+  defaultMap: {fileID: 21300000, guid: ee12f8a807e0b9d4ab6b0a419a80f03f, type: 3}
   alternativeMap: {fileID: 21300000, guid: 798ca045367eb3d4ea1281f372cf6f13, type: 3}
 --- !u!1 &940893346
 GameObject:
@@ -15600,13 +15615,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 73901650}
-        m_MethodName: Change_Mini_Map
+      - m_Target: {fileID: 73901652}
+        m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: cffa759381b9eb347bf1987c25d77a5d,
+          m_ObjectArgument: {fileID: 6985151188141216687, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -15616,7 +15631,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 3752ba9eeedc94647ad3c866e2723298,
+          m_ObjectArgument: {fileID: 21300000, guid: 2add144da70060848bf35712a1901eb3,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -17481,7 +17496,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 5a30784682406c34290f34a4da9678fc,
+          m_ObjectArgument: {fileID: 21300000, guid: bc6ef8df8fe2b684ab7a24acc37afb90,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -18046,7 +18061,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1214834859
 Transform:
   m_ObjectHideFlags: 0
@@ -18234,13 +18249,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 73901650}
-        m_MethodName: Change_Mini_Map
+      - m_Target: {fileID: 73901652}
+        m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: e25337d53fd9d9947bd3a9489f38efd3,
+          m_ObjectArgument: {fileID: 6985151188141216687, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -18250,7 +18265,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: d0174e61244bb2745890841296d0806e,
+          m_ObjectArgument: {fileID: 21300000, guid: 2cf233522ec65f94c95d3b98334dd3db,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -21204,13 +21219,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 73901650}
-        m_MethodName: Change_Mini_Map
+      - m_Target: {fileID: 73901652}
+        m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: dd1857138ef07f546a0f36f61f5d1c10,
+          m_ObjectArgument: {fileID: 6985151188141216687, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -21220,7 +21235,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 827301eb044f898409d176aa580dbf6c,
+          m_ObjectArgument: {fileID: 21300000, guid: df3f58283db6b734fba7b25d7c5baef5,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -22986,13 +23001,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 73901650}
-        m_MethodName: Change_Mini_Map
+      - m_Target: {fileID: 73901652}
+        m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 3c0e4e28d243a4a47b0340b4fad415c7,
+          m_ObjectArgument: {fileID: 6985151188141216687, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -23002,7 +23017,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 40aa1051e644e364a8bdbc5d6fe795ce,
+          m_ObjectArgument: {fileID: 21300000, guid: 66f0ba64788fbcc49b8d0fe9cb96425a,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -24044,7 +24059,7 @@ MonoBehaviour:
         m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 3985217112099053192, guid: c453b483c2507394c98f156c016603c3,
+          m_ObjectArgument: {fileID: 6985151188141216687, guid: c453b483c2507394c98f156c016603c3,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -24067,7 +24082,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 34df081e08c1ade43ac429ae70472ceb,
+          m_ObjectArgument: {fileID: 21300000, guid: 41a79ea342aa26d4c90adbb5aee0afcf,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -27848,7 +27863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5db94f0bb03aa4146b0e9484e39a04e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMap: {fileID: 21300000, guid: 05a3749025114294cb45d1d9e95cc0bd, type: 3}
+  defaultMap: {fileID: 0}
   alternativeMap: {fileID: 0}
 --- !u!1001 &1836907296
 PrefabInstance:
@@ -32517,14 +32532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 272bc65dbf5cbca45840c32881688950, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Camera: {fileID: 20953011398829732}
-  IgnoreGuiFingers: 1
-  RequiredFingerCount: 2
-  WheelSensitivity: 0
-  Zoom: 50
-  ZoomClamp: 1
-  ZoomMin: 10
-  ZoomMax: 60
 --- !u!114 &114324048755477168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32537,19 +32544,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b77c810e12dd11748b4646b9cb027bfd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  IgnoreGuiFingers: 1
-  RequiredFingerCount: 2
-  Direction: {x: -0, y: -0, z: -1}
-  Distance: 10
-  DistanceClamp: 0
-  DistanceMin: 1
-  DistanceMax: 100
-  WheelSensitivity: 0
-  CollisionLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  CollisionRadius: 0.1
-  Dampening: 3
 --- !u!114 &114408969851248826
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32581,21 +32575,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cb3664f747e0d84d9a03fc4bd328c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  IgnoreGuiFingers: 1
-  RequiredFingerCount: 1
-  RequiredSelectable: {fileID: 0}
-  Camera: {fileID: 20953011398829732}
-  Pitch: 41.9
-  PitchSensitivity: -0.25
-  PitchClamp: 1
-  PitchMin: 0
-  PitchMax: 90
-  Yaw: -0.4
-  YawSensitivity: -0.25
-  YawClamp: 0
-  YawMin: -45
-  YawMax: 45
-  Dampening: 3
 --- !u!114 &114602013965462440
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32608,12 +32587,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4a42cdcf8bc5264bb3e3036ed4f52d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Camera: {fileID: 20953011398829732}
-  IgnoreGuiFingers: 1
-  RequiredFingerCount: 2
-  Distance: 5
-  Sensitivity: 2
-  Dampening: 10
 --- !u!114 &114660016637478978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32626,19 +32599,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fc98219a83dff145947365dc914d06e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TapThreshold: 0.5
-  SwipeThreshold: 50
-  ReferenceDpi: 200
-  GuiLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  RecordFingers: 1
-  RecordThreshold: 5
-  RecordLimit: 0
-  SimulateMultiFingers: 1
-  PinchTwistKey: 306
-  MultiDragKey: 308
-  FingerTexture: {fileID: 2800000, guid: 25c48be3a87ea0f489a6d41c9c9a2194, type: 3}
 --- !u!114 &114666363429782852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32651,19 +32611,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b77c810e12dd11748b4646b9cb027bfd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  IgnoreGuiFingers: 1
-  RequiredFingerCount: 0
-  Direction: {x: -0, y: -0, z: -1}
-  Distance: 19.93
-  DistanceClamp: 0
-  DistanceMin: 1
-  DistanceMax: 100
-  WheelSensitivity: 0
-  CollisionLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  CollisionRadius: 0.1
-  Dampening: 3
 --- !u!114 &114708624814726394
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32723,6 +32670,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 260290421}
     m_Modifications:
+    - target: {fileID: 2711347904135693543, guid: a5f16e4931cb3cd42b385d757080d72c,
+        type: 3}
+      propertyPath: m_Text
+      value: PLACEHOLDER
+      objectReference: {fileID: 0}
     - target: {fileID: 2711347904959555944, guid: a5f16e4931cb3cd42b385d757080d72c,
         type: 3}
       propertyPath: m_Name
@@ -32832,6 +32784,14 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5015589567462675491, guid: a5f16e4931cb3cd42b385d757080d72c,
+        type: 3}
+      propertyPath: m_Text
+      value: '
+
+
+        asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasadasda'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a5f16e4931cb3cd42b385d757080d72c, type: 3}
