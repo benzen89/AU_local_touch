@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Helsinki.unity
     guid: 5dc8091cfe5a42245b87164023da0f5f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tallin.unity
     guid: bda8f5b6c0394c14a87b658ed5f65713
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: c576046ca7b960d45a7c24727a13b2e3
   m_configObjects: {}
