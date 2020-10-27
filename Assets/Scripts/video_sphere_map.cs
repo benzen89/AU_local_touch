@@ -21,6 +21,7 @@ public class video_sphere_map : MonoBehaviour
     }
 
     void OnMouseDown(){
+        Debug.Log("asd");
         VideoPlayer vp = playbackSphere.GetComponent<VideoPlayer>();
         vp.clip = myClip;
         vp.Play();
