@@ -6,7 +6,10 @@ public class map_styles : MonoBehaviour
 {
     // This script is attached to map objects and stores various map styles
     
-    public Sprite defaultMap;
-    public Sprite alternativeMap;
+    public Sprite aboutMap;
+    public Sprite resilienceMap;
+    public Sprite participationMap;
+    public Sprite technologyMap;
+    public Sprite plansMap;
     
 }

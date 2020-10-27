@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class info_panel_change : MonoBehaviour
 {
+
     /*
     This script is attached to any gameobject (for example UI Canvas) 
     and contains a function for changing the info panel.
     */
-    
+
     public void ChangeInfoPanel(GameObject newInfo){
         GameObject contentPanel = GameObject.Find("Content");
 

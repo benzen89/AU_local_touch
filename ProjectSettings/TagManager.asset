@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Map
   - InfoPanel
+  - Plans
+  - About
+  - Resilience
+  - Technology
+  - Participation
   layers:
   - Default
   - TransparentFX
