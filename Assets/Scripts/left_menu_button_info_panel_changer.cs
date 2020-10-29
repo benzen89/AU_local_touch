@@ -8,7 +8,7 @@ public class left_menu_button_info_panel_changer : MonoBehaviour
     info_panel_change info_Panel_Change;
     current_city_infos all_Panels;
 
-    public int button_index; //the index of the button (ex. about = 0, resilience = 1)
+    public int button_index; //the index of the button (about = 0, resilience = 1, etc.)
 
     private void Start()
     {
