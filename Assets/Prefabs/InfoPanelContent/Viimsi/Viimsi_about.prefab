@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -12}
+  m_AnchoredPosition: {x: 0, y: -230}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &648415778579371432
@@ -65,7 +65,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 80
+    m_FontSize: 60
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
@@ -76,7 +76,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Augmenting outdoor space with murals as markers
+  m_Text: 'Viimsi is a small, but rapidly growing municipality close to the capital
+    of Estonia, Tallinn, dealing with a transition from rural to urban. '
 --- !u!1 &8509870041126910723
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,7 +112,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1008}
+  m_AnchoredPosition: {x: 0, y: -8}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &8509870041126910720
@@ -153,7 +154,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: Haabneeme master plan and a new main street vision
 --- !u!1 &8509870041947477646
 GameObject:
   m_ObjectHideFlags: 0
@@ -226,7 +227,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -556.99976}
+  m_AnchoredPosition: {x: 0, y: -802}
   m_SizeDelta: {x: 0, y: 536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8509870042423954311
@@ -256,11 +257,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: 60b4aada2a49c14469eee787b0429bb6, type: 3}
+    m_FontSize: 55
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 7
+    m_MinSize: 5
     m_MaxSize: 70
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -268,15 +269,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "With the help of augmented reality, city planners introduce the concept
-    of Pollinator Highway and the future park solution drawn by landscape architect
-    company Kino maastikuarhitektid O\xDC. \r\nThe murals on garage walls work as
-    markers that activate 3D content projected into outdoor space.\r\n\r\nUsing AR
-    technology in urban planning allows introducing future urban plans, reaching
-    different people, raising awareness, and gives a new experience of the future
-    urban space.\r\n\r\nMurals on-site divide into four different themes to convey
-    the main ideas within the Pollinator Highway concept: \n - Species richness,
-    biodiversity and mowing\r\n - Sustainable mobility: bicycle and tram\r\n - Leisure
-    activities on the Pollinator Highway\r\n - Reuse of garages\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe
-    idea and implementation of augmented reality application were produced by vabaruum
-    o\xFC.\r\n"
+  m_Text: 'The Augmented Urbans Local Action connects to the preparation of the strategic
+    master plan of Haabneeme. The master plan aims to draw up the basic principles
+    for land use, urban settlement, mobility, social infrastructure, green corridors
+    and parks, open spaces, which will serve as a basis for the preparation of detailed
+    plans.
+
+
+
+    Augmented Urbans has offered an opportunity to enhance the cooperation
+    between stakeholders and planning experts and to support the planning process
+    by finding a practical solution to engage different parties and visualise architectural
+    and urban space. Activities focus particularly on creating a vision to develop
+    Randvere street into a safe and livable main street of Viimsi.
+
+'
