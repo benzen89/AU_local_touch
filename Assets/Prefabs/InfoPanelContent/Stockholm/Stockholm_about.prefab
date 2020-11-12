@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -12}
+  m_AnchoredPosition: {x: 0, y: -218}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &2653912382240906801
@@ -65,7 +65,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 80
+    m_FontSize: 70
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
@@ -76,8 +76,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Parklek Kulan is a playground and recreation area in a borough of Stockholm
-    called Sk\xE4rholmen."
+  m_Text: "\u201CKulan\u201D or Kulans \xF6ppna f\xF6rskola och parklek is a playground,
+    preschool, and recreation area in S\xE4tra, in the borough of Stockholm called
+    Sk\xE4rholmen."
 --- !u!1 &6499279478074257562
 GameObject:
   m_ObjectHideFlags: 0
@@ -112,7 +113,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1008}
+  m_AnchoredPosition: {x: 0, y: 3}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &6499279478074257561
@@ -154,7 +155,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: Opening public discussion about the playground Kulan
 --- !u!1 &6499279478968713243
 GameObject:
   m_ObjectHideFlags: 0
@@ -189,7 +190,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -707}
+  m_AnchoredPosition: {x: 0, y: -906}
   m_SizeDelta: {x: 0, y: 536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6499279478968713246
@@ -220,10 +221,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 70
+    m_FontSize: 55
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 7
+    m_MinSize: 5
     m_MaxSize: 70
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -231,20 +232,23 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Built-in the 1960s and 1970s on the edge of Lake M\xE4laren and with good
-    connections to the city centre, Sk\xE4rholmen is undergoing rapid social changes.
-    Local planners are eager to find new ways to understand the needs of residents
-    because the demographics of Sk\xE4rholmen have changed in recent decades. Approximately
-    70% of Sk\xE4rholmen's residents were born outside Sweden. There is a high proportion
-    of young people and higher than average unemployment. \r\n \r\nIn discussions
-    with the local planning office, Parklek Kulan was suggested as a site to inspire
-    the development of a virtual reality prototype for the Augmented Urbans project.
-    Although not currently under on-going planning process, it might shortly be taken
-    under development\u2014yet, planners have very little information about who goes
-    there, what they do there and how residents would design Kulan. Planners were
-    enthusiastic about working with Augmented Urbans in developing a VR experience
-    to engage both young and old residents to get insights from citizens for a more
-    effective and democratic planning process.\r"
+  m_Text: "Sk\xE4rholmen plans for extensive growth and development over the coming
+    two decades. The borough is located on the edge of Lake M\xE4laren. It has good
+    availability of green areas, spaces that are not built up, and it has good connections
+    to the city centre. As part of harnessing the potential of making Sk\xE4rholmen
+    attractive for both local and new inhabitants, and to encourage a mixed population
+    of immigrants, first- and older generation Swedes, local planners are eager to
+    find ways of capturing design ideas by citizens.\r\n\r\nLittle has happened in
+    Sk\xE4rholmen construction-wise since it was built in the 1960s and 1970s. Today,
+    approximately 70% of the residents are born outside of Sweden or have two parents
+    coming from other countries. There\u2019s a high proportion of young people and
+    higher than average unemployment.\r\n\r\nThe local planning office suggested
+    Kulan as the the model site for a virtual reality prototype for the Stockholm
+    activities in the Augmented Urbans project. There\u2019s currently no detail
+    plan for development of Kulan. The prototype can be used as a tool to inspire
+    discussions and creative thinking notably with participation by- and nested in
+    the local population. Local planners have welcomed the opportunity of testing
+    VR as a new tool for communication and to encourage local involvement in planning.\r\n"
 --- !u!1 &6499279479431830807
 GameObject:
   m_ObjectHideFlags: 0

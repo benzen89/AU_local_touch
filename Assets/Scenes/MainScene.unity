@@ -1959,6 +1959,7 @@ GameObject:
   - component: {fileID: 86701329}
   - component: {fileID: 86701328}
   - component: {fileID: 86701327}
+  - component: {fileID: 86701330}
   m_Layer: 5
   m_Name: ideas_0
   m_TagString: Untagged
@@ -2076,6 +2077,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 86701325}
   m_CullTransparentMesh: 0
+--- !u!111 &86701330
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86701325}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &86951711
 GameObject:
   m_ObjectHideFlags: 0
@@ -2280,6 +2297,7 @@ GameObject:
   - component: {fileID: 98516100}
   - component: {fileID: 98516099}
   - component: {fileID: 98516098}
+  - component: {fileID: 98516102}
   m_Layer: 0
   m_Name: Meadow
   m_TagString: Untagged
@@ -2375,6 +2393,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 98516096}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &98516102
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98516096}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &101338703
 GameObject:
   m_ObjectHideFlags: 0
@@ -2661,6 +2695,7 @@ GameObject:
   - component: {fileID: 115125694}
   - component: {fileID: 115125693}
   - component: {fileID: 115125692}
+  - component: {fileID: 115125695}
   m_Layer: 5
   m_Name: ideas_0
   m_TagString: Untagged
@@ -2778,6 +2813,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 115125690}
   m_CullTransparentMesh: 0
+--- !u!111 &115125695
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115125690}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &115905575
 GameObject:
   m_ObjectHideFlags: 0
@@ -3436,6 +3487,7 @@ GameObject:
   - component: {fileID: 147280663}
   - component: {fileID: 147280662}
   - component: {fileID: 147280661}
+  - component: {fileID: 147280664}
   m_Layer: 5
   m_Name: Technology_1
   m_TagString: Untagged
@@ -3553,6 +3605,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 147280659}
   m_CullTransparentMesh: 0
+--- !u!111 &147280664
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147280659}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &150777836
 GameObject:
   m_ObjectHideFlags: 0
@@ -3673,6 +3741,7 @@ GameObject:
   - component: {fileID: 153335807}
   - component: {fileID: 153335806}
   - component: {fileID: 153335805}
+  - component: {fileID: 153335808}
   m_Layer: 0
   m_Name: urban_planning_0 (2)
   m_TagString: Untagged
@@ -3755,6 +3824,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 153335803}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &153335808
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 153335803}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &154965822
 GameObject:
   m_ObjectHideFlags: 0
@@ -3767,6 +3852,7 @@ GameObject:
   - component: {fileID: 154965826}
   - component: {fileID: 154965825}
   - component: {fileID: 154965824}
+  - component: {fileID: 154965827}
   m_Layer: 5
   m_Name: ideas_0
   m_TagString: Untagged
@@ -3884,6 +3970,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 154965822}
   m_CullTransparentMesh: 0
+--- !u!111 &154965827
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 154965822}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &163027977
 GameObject:
   m_ObjectHideFlags: 0
@@ -3897,6 +3999,7 @@ GameObject:
   - component: {fileID: 163027980}
   - component: {fileID: 163027979}
   - component: {fileID: 163027983}
+  - component: {fileID: 163027982}
   m_Layer: 0
   m_Name: Meadow
   m_TagString: Untagged
@@ -3979,6 +4082,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 163027977}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &163027982
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 163027977}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!114 &163027983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4631,6 +4750,7 @@ GameObject:
   - component: {fileID: 206893614}
   - component: {fileID: 206893613}
   - component: {fileID: 206893612}
+  - component: {fileID: 206893615}
   m_Layer: 5
   m_Name: meadow_1
   m_TagString: Untagged
@@ -4748,6 +4868,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206893610}
   m_CullTransparentMesh: 0
+--- !u!111 &206893615
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206893610}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &207212167
 GameObject:
   m_ObjectHideFlags: 0
@@ -4761,6 +4897,7 @@ GameObject:
   - component: {fileID: 207212171}
   - component: {fileID: 207212170}
   - component: {fileID: 207212169}
+  - component: {fileID: 207212173}
   m_Layer: 0
   m_Name: Meadow
   m_TagString: Untagged
@@ -4856,6 +4993,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 207212167}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &207212173
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207212167}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &210561607
 GameObject:
   m_ObjectHideFlags: 0
@@ -4979,6 +5132,7 @@ GameObject:
   - component: {fileID: 216292028}
   - component: {fileID: 216292027}
   - component: {fileID: 216292026}
+  - component: {fileID: 216292029}
   m_Layer: 5
   m_Name: resilience_0
   m_TagString: Untagged
@@ -5096,6 +5250,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 216292024}
   m_CullTransparentMesh: 0
+--- !u!111 &216292029
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 216292024}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &224137080
 GameObject:
   m_ObjectHideFlags: 0
@@ -5392,6 +5562,7 @@ GameObject:
   - component: {fileID: 246938342}
   - component: {fileID: 246938341}
   - component: {fileID: 246938340}
+  - component: {fileID: 246938344}
   m_Layer: 0
   m_Name: PoI_3
   m_TagString: Untagged
@@ -5487,6 +5658,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 246938338}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &246938344
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246938338}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &251289305
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5947,6 +6134,7 @@ GameObject:
   - component: {fileID: 265154654}
   - component: {fileID: 265154653}
   - component: {fileID: 265154652}
+  - component: {fileID: 265154655}
   m_Layer: 5
   m_Name: participation_2_4
   m_TagString: Untagged
@@ -6064,6 +6252,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 265154650}
   m_CullTransparentMesh: 0
+--- !u!111 &265154655
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 265154650}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &266667033
 GameObject:
   m_ObjectHideFlags: 0
@@ -6313,6 +6517,7 @@ GameObject:
   - component: {fileID: 284278329}
   - component: {fileID: 284278328}
   - component: {fileID: 284278327}
+  - component: {fileID: 284278330}
   m_Layer: 5
   m_Name: participation_2_1
   m_TagString: Untagged
@@ -6430,6 +6635,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 284278325}
   m_CullTransparentMesh: 0
+--- !u!111 &284278330
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284278325}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &284644559
 GameObject:
   m_ObjectHideFlags: 0
@@ -6771,6 +6992,7 @@ GameObject:
   - component: {fileID: 294057187}
   - component: {fileID: 294057186}
   - component: {fileID: 294057185}
+  - component: {fileID: 294057189}
   m_Layer: 0
   m_Name: PoI_0
   m_TagString: Untagged
@@ -6866,6 +7088,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 294057183}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &294057189
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294057183}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &296289806
 GameObject:
   m_ObjectHideFlags: 0
@@ -6916,6 +7154,7 @@ GameObject:
   - component: {fileID: 303643202}
   - component: {fileID: 303643201}
   - component: {fileID: 303643200}
+  - component: {fileID: 303643203}
   m_Layer: 5
   m_Name: urban_planning_0
   m_TagString: Untagged
@@ -7033,6 +7272,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 303643198}
   m_CullTransparentMesh: 0
+--- !u!111 &303643203
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 303643198}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &306741824
 GameObject:
   m_ObjectHideFlags: 0
@@ -7081,6 +7336,7 @@ GameObject:
   - component: {fileID: 307160766}
   - component: {fileID: 307160765}
   - component: {fileID: 307160764}
+  - component: {fileID: 307160767}
   m_Layer: 0
   m_Name: urban_planning_0 (5)
   m_TagString: Untagged
@@ -7163,6 +7419,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 307160762}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &307160767
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 307160762}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &313950123
 GameObject:
   m_ObjectHideFlags: 0
@@ -7175,6 +7447,7 @@ GameObject:
   - component: {fileID: 313950127}
   - component: {fileID: 313950126}
   - component: {fileID: 313950125}
+  - component: {fileID: 313950128}
   m_Layer: 5
   m_Name: technology_0
   m_TagString: Untagged
@@ -7292,6 +7565,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 313950123}
   m_CullTransparentMesh: 0
+--- !u!111 &313950128
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313950123}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &315062881
 GameObject:
   m_ObjectHideFlags: 0
@@ -7538,6 +7827,7 @@ GameObject:
   - component: {fileID: 320692962}
   - component: {fileID: 320692961}
   - component: {fileID: 320692960}
+  - component: {fileID: 320692963}
   m_Layer: 5
   m_Name: urban_gardening_0
   m_TagString: Untagged
@@ -7655,6 +7945,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320692958}
   m_CullTransparentMesh: 0
+--- !u!111 &320692963
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320692958}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &324564315
 GameObject:
   m_ObjectHideFlags: 0
@@ -7703,6 +8009,7 @@ GameObject:
   - component: {fileID: 324672526}
   - component: {fileID: 324672525}
   - component: {fileID: 324672524}
+  - component: {fileID: 324672527}
   m_Layer: 5
   m_Name: meadow_0
   m_TagString: Untagged
@@ -7820,6 +8127,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 324672522}
   m_CullTransparentMesh: 0
+--- !u!111 &324672527
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 324672522}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &331904831
 GameObject:
   m_ObjectHideFlags: 0
@@ -8326,11 +8649,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5db94f0bb03aa4146b0e9484e39a04e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aboutMap: {fileID: 0}
-  resilienceMap: {fileID: 0}
-  participationMap: {fileID: 0}
-  technologyMap: {fileID: 0}
-  plansMap: {fileID: 0}
+  aboutMap: {fileID: 21300000, guid: ea00199f562613a4da4a52597e4a0ff2, type: 3}
+  resilienceMap: {fileID: 21300000, guid: ea00199f562613a4da4a52597e4a0ff2, type: 3}
+  participationMap: {fileID: 21300000, guid: ea00199f562613a4da4a52597e4a0ff2, type: 3}
+  technologyMap: {fileID: 21300000, guid: ea00199f562613a4da4a52597e4a0ff2, type: 3}
+  plansMap: {fileID: 21300000, guid: ea00199f562613a4da4a52597e4a0ff2, type: 3}
 --- !u!212 &347683737
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9734,6 +10057,7 @@ GameObject:
   - component: {fileID: 415612806}
   - component: {fileID: 415612805}
   - component: {fileID: 415612804}
+  - component: {fileID: 415612808}
   m_Layer: 0
   m_Name: urban_planning_2
   m_TagString: Untagged
@@ -9829,6 +10153,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 415612802}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &415612808
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415612802}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &417253770
 GameObject:
   m_ObjectHideFlags: 0
@@ -10062,6 +10402,7 @@ GameObject:
   - component: {fileID: 429719051}
   - component: {fileID: 429719050}
   - component: {fileID: 429719049}
+  - component: {fileID: 429719053}
   m_Layer: 0
   m_Name: PoI_2
   m_TagString: Untagged
@@ -10157,6 +10498,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 429719047}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &429719053
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429719047}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &430551929
 GameObject:
   m_ObjectHideFlags: 0
@@ -10356,6 +10713,7 @@ GameObject:
   - component: {fileID: 434837055}
   - component: {fileID: 434837054}
   - component: {fileID: 434837053}
+  - component: {fileID: 434837056}
   m_Layer: 5
   m_Name: participation_2_1
   m_TagString: Untagged
@@ -10473,6 +10831,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 434837051}
   m_CullTransparentMesh: 0
+--- !u!111 &434837056
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434837051}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &435257419
 GameObject:
   m_ObjectHideFlags: 0
@@ -11838,6 +12212,7 @@ GameObject:
   - component: {fileID: 480700299}
   - component: {fileID: 480700298}
   - component: {fileID: 480700297}
+  - component: {fileID: 480700300}
   m_Layer: 5
   m_Name: ideas_1
   m_TagString: Untagged
@@ -11955,6 +12330,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 480700295}
   m_CullTransparentMesh: 0
+--- !u!111 &480700300
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 480700295}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &482403731
 GameObject:
   m_ObjectHideFlags: 0
@@ -11968,6 +12359,7 @@ GameObject:
   - component: {fileID: 482403735}
   - component: {fileID: 482403734}
   - component: {fileID: 482403733}
+  - component: {fileID: 482403737}
   m_Layer: 0
   m_Name: urban_gardening
   m_TagString: Untagged
@@ -12063,6 +12455,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 482403731}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &482403737
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482403731}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &488105792
 GameObject:
   m_ObjectHideFlags: 0
@@ -12610,6 +13018,7 @@ GameObject:
   - component: {fileID: 493272701}
   - component: {fileID: 493272700}
   - component: {fileID: 493272699}
+  - component: {fileID: 493272702}
   m_Layer: 5
   m_Name: resilience_0
   m_TagString: Untagged
@@ -12727,6 +13136,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 493272697}
   m_CullTransparentMesh: 0
+--- !u!111 &493272702
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 493272697}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &497780568
 GameObject:
   m_ObjectHideFlags: 0
@@ -12981,6 +13406,7 @@ GameObject:
   - component: {fileID: 511373408}
   - component: {fileID: 511373407}
   - component: {fileID: 511373406}
+  - component: {fileID: 511373409}
   m_Layer: 0
   m_Name: urban_planning_0 (1)
   m_TagString: Untagged
@@ -13063,6 +13489,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 511373404}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &511373409
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511373404}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &515394714
 GameObject:
   m_ObjectHideFlags: 0
@@ -13116,6 +13558,7 @@ GameObject:
   - component: {fileID: 517397376}
   - component: {fileID: 517397375}
   - component: {fileID: 517397374}
+  - component: {fileID: 517397377}
   m_Layer: 5
   m_Name: Technology_1 (1)
   m_TagString: Untagged
@@ -13233,6 +13676,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 517397372}
   m_CullTransparentMesh: 0
+--- !u!111 &517397377
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 517397372}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &521182849
 GameObject:
   m_ObjectHideFlags: 0
@@ -13621,6 +14080,7 @@ GameObject:
   - component: {fileID: 531515875}
   - component: {fileID: 531515874}
   - component: {fileID: 531515873}
+  - component: {fileID: 531515876}
   m_Layer: 5
   m_Name: participation_2_0 (1)
   m_TagString: Untagged
@@ -13738,6 +14198,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 531515871}
   m_CullTransparentMesh: 0
+--- !u!111 &531515876
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531515871}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &531943134
 GameObject:
   m_ObjectHideFlags: 0
@@ -14285,6 +14761,7 @@ GameObject:
   - component: {fileID: 554072188}
   - component: {fileID: 554072187}
   - component: {fileID: 554072186}
+  - component: {fileID: 554072190}
   m_Layer: 0
   m_Name: Meadow (1)
   m_TagString: Untagged
@@ -14380,6 +14857,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 554072184}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &554072190
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 554072184}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &557235932
 GameObject:
   m_ObjectHideFlags: 0
@@ -15231,6 +15724,7 @@ GameObject:
   - component: {fileID: 594502424}
   - component: {fileID: 594502423}
   - component: {fileID: 594502422}
+  - component: {fileID: 594502425}
   m_Layer: 5
   m_Name: meadow_0
   m_TagString: Untagged
@@ -15348,6 +15842,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 594502420}
   m_CullTransparentMesh: 0
+--- !u!111 &594502425
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594502420}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &601589778
 GameObject:
   m_ObjectHideFlags: 0
@@ -15360,6 +15870,7 @@ GameObject:
   - component: {fileID: 601589782}
   - component: {fileID: 601589781}
   - component: {fileID: 601589780}
+  - component: {fileID: 601589783}
   m_Layer: 5
   m_Name: technology_0
   m_TagString: Untagged
@@ -15477,6 +15988,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 601589778}
   m_CullTransparentMesh: 0
+--- !u!111 &601589783
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601589778}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &611335282
 GameObject:
   m_ObjectHideFlags: 0
@@ -16113,6 +16640,7 @@ GameObject:
   - component: {fileID: 627118142}
   - component: {fileID: 627118141}
   - component: {fileID: 627118140}
+  - component: {fileID: 627118143}
   m_Layer: 5
   m_Name: resilience_1
   m_TagString: Untagged
@@ -16230,6 +16758,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 627118138}
   m_CullTransparentMesh: 0
+--- !u!111 &627118143
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627118138}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &627360300
 GameObject:
   m_ObjectHideFlags: 0
@@ -16978,6 +17522,7 @@ GameObject:
   - component: {fileID: 681407472}
   - component: {fileID: 681407471}
   - component: {fileID: 681407470}
+  - component: {fileID: 681407473}
   m_Layer: 5
   m_Name: participation_2_3
   m_TagString: Untagged
@@ -17095,6 +17640,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 681407468}
   m_CullTransparentMesh: 0
+--- !u!111 &681407473
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 681407468}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &686583065
 GameObject:
   m_ObjectHideFlags: 0
@@ -17124,6 +17685,7 @@ GameObject:
   - component: {fileID: 689737775}
   - component: {fileID: 689737774}
   - component: {fileID: 689737773}
+  - component: {fileID: 689737777}
   m_Layer: 0
   m_Name: PoI_2
   m_TagString: Untagged
@@ -17219,6 +17781,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 689737771}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &689737777
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689737771}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &692088511
 GameObject:
   m_ObjectHideFlags: 0
@@ -17359,6 +17937,7 @@ GameObject:
   - component: {fileID: 694653936}
   - component: {fileID: 694653935}
   - component: {fileID: 694653934}
+  - component: {fileID: 694653938}
   m_Layer: 0
   m_Name: PoI_3
   m_TagString: Untagged
@@ -17454,6 +18033,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 694653932}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &694653938
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694653932}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &696178936
 GameObject:
   m_ObjectHideFlags: 0
@@ -17909,6 +18504,7 @@ GameObject:
   - component: {fileID: 711184442}
   - component: {fileID: 711184441}
   - component: {fileID: 711184440}
+  - component: {fileID: 711184443}
   m_Layer: 5
   m_Name: PoI_0
   m_TagString: Untagged
@@ -18026,6 +18622,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 711184438}
   m_CullTransparentMesh: 0
+--- !u!111 &711184443
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 711184438}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &712350559
 GameObject:
   m_ObjectHideFlags: 0
@@ -18187,6 +18799,7 @@ GameObject:
   - component: {fileID: 722829839}
   - component: {fileID: 722829838}
   - component: {fileID: 722829837}
+  - component: {fileID: 722829840}
   m_Layer: 5
   m_Name: ideas_0
   m_TagString: Untagged
@@ -18304,6 +18917,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 722829835}
   m_CullTransparentMesh: 0
+--- !u!111 &722829840
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722829835}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &729636909
 GameObject:
   m_ObjectHideFlags: 0
@@ -18843,6 +19472,7 @@ GameObject:
   - component: {fileID: 756145190}
   - component: {fileID: 756145189}
   - component: {fileID: 756145188}
+  - component: {fileID: 756145192}
   m_Layer: 0
   m_Name: Point of Interest
   m_TagString: Untagged
@@ -18938,6 +19568,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 756145186}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &756145192
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 756145186}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &756288642
 GameObject:
   m_ObjectHideFlags: 0
@@ -19063,7 +19709,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 766354909}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.209475, y: -5.9844127, z: 4.4321404}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 347683735}
@@ -19643,6 +20289,7 @@ GameObject:
   - component: {fileID: 795485074}
   - component: {fileID: 795485073}
   - component: {fileID: 795485072}
+  - component: {fileID: 795485075}
   m_Layer: 5
   m_Name: ideas_0
   m_TagString: Untagged
@@ -19760,6 +20407,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 795485070}
   m_CullTransparentMesh: 0
+--- !u!111 &795485075
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 795485070}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &804304231
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21613,6 +22276,7 @@ GameObject:
   - component: {fileID: 878328664}
   - component: {fileID: 878328663}
   - component: {fileID: 878328665}
+  - component: {fileID: 878328666}
   m_Layer: 5
   m_Name: participation_2_0
   m_TagString: Untagged
@@ -21730,6 +22394,22 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!111 &878328666
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 878328661}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &884932760
 GameObject:
   m_ObjectHideFlags: 0
@@ -22001,6 +22681,7 @@ GameObject:
   - component: {fileID: 889926893}
   - component: {fileID: 889926892}
   - component: {fileID: 889926891}
+  - component: {fileID: 889926894}
   m_Layer: 5
   m_Name: participation_2_1
   m_TagString: Untagged
@@ -22118,6 +22799,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 889926889}
   m_CullTransparentMesh: 0
+--- !u!111 &889926894
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 889926889}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &898247521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22762,6 +23459,7 @@ GameObject:
   - component: {fileID: 934023127}
   - component: {fileID: 934023126}
   - component: {fileID: 934023125}
+  - component: {fileID: 934023129}
   m_Layer: 0
   m_Name: urban_planning_0
   m_TagString: Untagged
@@ -22857,6 +23555,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 934023123}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &934023129
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 934023123}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &934094026
 GameObject:
   m_ObjectHideFlags: 0
@@ -23833,6 +24547,7 @@ GameObject:
   - component: {fileID: 993079389}
   - component: {fileID: 993079388}
   - component: {fileID: 993079387}
+  - component: {fileID: 993079391}
   m_Layer: 0
   m_Name: pollinators
   m_TagString: Untagged
@@ -23928,6 +24643,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 993079385}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &993079391
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 993079385}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1003541519
 GameObject:
   m_ObjectHideFlags: 0
@@ -24065,6 +24796,7 @@ GameObject:
   - component: {fileID: 1006064909}
   - component: {fileID: 1006064908}
   - component: {fileID: 1006064907}
+  - component: {fileID: 1006064910}
   m_Layer: 5
   m_Name: technology_0
   m_TagString: Untagged
@@ -24182,6 +24914,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1006064905}
   m_CullTransparentMesh: 0
+--- !u!111 &1006064910
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006064905}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1022807264
 GameObject:
   m_ObjectHideFlags: 0
@@ -24302,6 +25050,7 @@ GameObject:
   - component: {fileID: 1023691659}
   - component: {fileID: 1023691658}
   - component: {fileID: 1023691657}
+  - component: {fileID: 1023691660}
   m_Layer: 5
   m_Name: ideas_2
   m_TagString: Untagged
@@ -24419,6 +25168,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1023691655}
   m_CullTransparentMesh: 0
+--- !u!111 &1023691660
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023691655}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1025967629
 GameObject:
   m_ObjectHideFlags: 0
@@ -25619,6 +26384,7 @@ GameObject:
   - component: {fileID: 1077704347}
   - component: {fileID: 1077704346}
   - component: {fileID: 1077704349}
+  - component: {fileID: 1077704350}
   m_Layer: 0
   m_Name: Pollinators
   m_TagString: Untagged
@@ -25714,6 +26480,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newInfo: {fileID: 6991323187626548904, guid: 9b9551011695dc84d9092a52cdfedab0, type: 3}
+--- !u!111 &1077704350
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1077704344}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1078849815
 GameObject:
   m_ObjectHideFlags: 0
@@ -25726,6 +26508,7 @@ GameObject:
   - component: {fileID: 1078849819}
   - component: {fileID: 1078849818}
   - component: {fileID: 1078849817}
+  - component: {fileID: 1078849820}
   m_Layer: 5
   m_Name: participation_2_1
   m_TagString: Untagged
@@ -25843,6 +26626,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1078849815}
   m_CullTransparentMesh: 0
+--- !u!111 &1078849820
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078849815}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1087269875
 GameObject:
   m_ObjectHideFlags: 0
@@ -27001,6 +27800,7 @@ GameObject:
   - component: {fileID: 1138240918}
   - component: {fileID: 1138240917}
   - component: {fileID: 1138240916}
+  - component: {fileID: 1138240919}
   m_Layer: 5
   m_Name: PoI_0
   m_TagString: Untagged
@@ -27118,6 +27918,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1138240914}
   m_CullTransparentMesh: 0
+--- !u!111 &1138240919
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138240914}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1138446318
 GameObject:
   m_ObjectHideFlags: 0
@@ -27961,6 +28777,7 @@ GameObject:
   - component: {fileID: 1161609384}
   - component: {fileID: 1161609383}
   - component: {fileID: 1161609382}
+  - component: {fileID: 1161609385}
   m_Layer: 5
   m_Name: PoI_0
   m_TagString: Untagged
@@ -28078,6 +28895,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1161609380}
   m_CullTransparentMesh: 0
+--- !u!111 &1161609385
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161609380}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1167010535
 GameObject:
   m_ObjectHideFlags: 0
@@ -28153,6 +28986,7 @@ GameObject:
   - component: {fileID: 1170332467}
   - component: {fileID: 1170332466}
   - component: {fileID: 1170332465}
+  - component: {fileID: 1170332469}
   m_Layer: 0
   m_Name: urban_planning_0 (2)
   m_TagString: Untagged
@@ -28248,6 +29082,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1170332463}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1170332469
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170332463}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1171556958
 GameObject:
   m_ObjectHideFlags: 0
@@ -28260,6 +29110,7 @@ GameObject:
   - component: {fileID: 1171556962}
   - component: {fileID: 1171556961}
   - component: {fileID: 1171556960}
+  - component: {fileID: 1171556963}
   m_Layer: 5
   m_Name: PoI_0
   m_TagString: Untagged
@@ -28377,6 +29228,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1171556958}
   m_CullTransparentMesh: 0
+--- !u!111 &1171556963
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171556958}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1172638107
 GameObject:
   m_ObjectHideFlags: 0
@@ -28477,6 +29344,7 @@ GameObject:
   - component: {fileID: 1175247096}
   - component: {fileID: 1175247095}
   - component: {fileID: 1175247094}
+  - component: {fileID: 1175247097}
   m_Layer: 5
   m_Name: ideas_2
   m_TagString: Untagged
@@ -28594,6 +29462,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1175247092}
   m_CullTransparentMesh: 0
+--- !u!111 &1175247097
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1175247092}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1186917244
 GameObject:
   m_ObjectHideFlags: 0
@@ -29373,6 +30257,7 @@ GameObject:
   - component: {fileID: 1211765151}
   - component: {fileID: 1211765150}
   - component: {fileID: 1211765149}
+  - component: {fileID: 1211765152}
   m_Layer: 5
   m_Name: urbanGardening_0
   m_TagString: Untagged
@@ -29490,6 +30375,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1211765147}
   m_CullTransparentMesh: 0
+--- !u!111 &1211765152
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1211765147}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1211824131
 GameObject:
   m_ObjectHideFlags: 0
@@ -29979,6 +30880,7 @@ GameObject:
   - component: {fileID: 1233338359}
   - component: {fileID: 1233338358}
   - component: {fileID: 1233338357}
+  - component: {fileID: 1233338360}
   m_Layer: 5
   m_Name: urban_planning_1
   m_TagString: Untagged
@@ -30096,6 +30998,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1233338355}
   m_CullTransparentMesh: 0
+--- !u!111 &1233338360
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1233338355}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1234462387
 GameObject:
   m_ObjectHideFlags: 0
@@ -30572,6 +31490,7 @@ GameObject:
   - component: {fileID: 1252543067}
   - component: {fileID: 1252543066}
   - component: {fileID: 1252543065}
+  - component: {fileID: 1252543069}
   m_Layer: 0
   m_Name: Participation (2)
   m_TagString: Untagged
@@ -30667,6 +31586,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1252543063}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1252543069
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252543063}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &1254529376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31116,6 +32051,7 @@ GameObject:
   - component: {fileID: 1283234683}
   - component: {fileID: 1283234682}
   - component: {fileID: 1283234681}
+  - component: {fileID: 1283234684}
   m_Layer: 5
   m_Name: urban_gardening_0 (1)
   m_TagString: Untagged
@@ -31233,6 +32169,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1283234679}
   m_CullTransparentMesh: 0
+--- !u!111 &1283234684
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1283234679}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &1285972670
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31485,6 +32437,7 @@ GameObject:
   - component: {fileID: 1304005733}
   - component: {fileID: 1304005732}
   - component: {fileID: 1304005731}
+  - component: {fileID: 1304005735}
   m_Layer: 0
   m_Name: urban_planning_1
   m_TagString: Untagged
@@ -31580,6 +32533,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1304005729}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1304005735
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1304005729}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &1309296676
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31797,6 +32766,7 @@ GameObject:
   - component: {fileID: 1313214165}
   - component: {fileID: 1313214163}
   - component: {fileID: 1313214164}
+  - component: {fileID: 1313214166}
   m_Layer: 5
   m_Name: ideas_0
   m_TagString: Untagged
@@ -31914,6 +32884,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1313214161}
   m_CullTransparentMesh: 0
+--- !u!111 &1313214166
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1313214161}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &1317142606
 Transform:
   m_ObjectHideFlags: 0
@@ -32125,6 +33111,7 @@ GameObject:
   - component: {fileID: 1335774265}
   - component: {fileID: 1335774264}
   - component: {fileID: 1335774263}
+  - component: {fileID: 1335774267}
   m_Layer: 0
   m_Name: PoI_0
   m_TagString: Untagged
@@ -32220,6 +33207,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1335774261}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1335774267
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335774261}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1337409412
 GameObject:
   m_ObjectHideFlags: 0
@@ -33713,6 +34716,7 @@ GameObject:
   - component: {fileID: 1403173089}
   - component: {fileID: 1403173088}
   - component: {fileID: 1403173087}
+  - component: {fileID: 1403173091}
   m_Layer: 0
   m_Name: Participation
   m_TagString: Untagged
@@ -33808,6 +34812,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1403173085}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1403173091
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1403173085}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1404065101
 GameObject:
   m_ObjectHideFlags: 0
@@ -33820,6 +34840,7 @@ GameObject:
   - component: {fileID: 1404065105}
   - component: {fileID: 1404065104}
   - component: {fileID: 1404065103}
+  - component: {fileID: 1404065106}
   m_Layer: 5
   m_Name: participation_2_0
   m_TagString: Untagged
@@ -33937,6 +34958,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1404065101}
   m_CullTransparentMesh: 0
+--- !u!111 &1404065106
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1404065101}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1405133447
 GameObject:
   m_ObjectHideFlags: 0
@@ -33949,6 +34986,7 @@ GameObject:
   - component: {fileID: 1405133451}
   - component: {fileID: 1405133450}
   - component: {fileID: 1405133449}
+  - component: {fileID: 1405133452}
   m_Layer: 5
   m_Name: PoI_0
   m_TagString: Untagged
@@ -34066,6 +35104,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1405133447}
   m_CullTransparentMesh: 0
+--- !u!111 &1405133452
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405133447}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1409623726
 GameObject:
   m_ObjectHideFlags: 0
@@ -34880,6 +35934,7 @@ GameObject:
   - component: {fileID: 1433887833}
   - component: {fileID: 1433887832}
   - component: {fileID: 1433887831}
+  - component: {fileID: 1433887834}
   m_Layer: 5
   m_Name: urban_gardening_0
   m_TagString: Untagged
@@ -34997,6 +36052,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1433887829}
   m_CullTransparentMesh: 0
+--- !u!111 &1433887834
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433887829}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1434141332
 GameObject:
   m_ObjectHideFlags: 0
@@ -35611,6 +36682,7 @@ GameObject:
   - component: {fileID: 1460893990}
   - component: {fileID: 1460893989}
   - component: {fileID: 1460893988}
+  - component: {fileID: 1460893991}
   m_Layer: 5
   m_Name: PoI_0
   m_TagString: Untagged
@@ -35728,6 +36800,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1460893986}
   m_CullTransparentMesh: 0
+--- !u!111 &1460893991
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460893986}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1467773199
 GameObject:
   m_ObjectHideFlags: 0
@@ -35740,6 +36828,7 @@ GameObject:
   - component: {fileID: 1467773203}
   - component: {fileID: 1467773202}
   - component: {fileID: 1467773201}
+  - component: {fileID: 1467773204}
   m_Layer: 5
   m_Name: technology_1
   m_TagString: Untagged
@@ -35857,6 +36946,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1467773199}
   m_CullTransparentMesh: 0
+--- !u!111 &1467773204
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467773199}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1001 &1467934886
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36197,6 +37302,7 @@ GameObject:
   - component: {fileID: 1482977107}
   - component: {fileID: 1482977106}
   - component: {fileID: 1482977105}
+  - component: {fileID: 1482977108}
   m_Layer: 0
   m_Name: urban_planning_0 (4)
   m_TagString: Untagged
@@ -36279,6 +37385,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1482977103}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1482977108
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1482977103}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1485122616
 GameObject:
   m_ObjectHideFlags: 0
@@ -36500,6 +37622,7 @@ GameObject:
   - component: {fileID: 1491788887}
   - component: {fileID: 1491788886}
   - component: {fileID: 1491788885}
+  - component: {fileID: 1491788888}
   m_Layer: 5
   m_Name: participation_2_0
   m_TagString: Untagged
@@ -36617,6 +37740,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1491788883}
   m_CullTransparentMesh: 0
+--- !u!111 &1491788888
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1491788883}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1491811737
 GameObject:
   m_ObjectHideFlags: 0
@@ -36886,6 +38025,7 @@ GameObject:
   - component: {fileID: 1503852574}
   - component: {fileID: 1503852573}
   - component: {fileID: 1503852572}
+  - component: {fileID: 1503852575}
   m_Layer: 0
   m_Name: urban_planning_0 (3)
   m_TagString: Untagged
@@ -36968,6 +38108,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1503852570}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1503852575
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503852570}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1507746844
 GameObject:
   m_ObjectHideFlags: 0
@@ -37476,6 +38632,7 @@ GameObject:
   - component: {fileID: 1531941447}
   - component: {fileID: 1531941446}
   - component: {fileID: 1531941445}
+  - component: {fileID: 1531941448}
   m_Layer: 5
   m_Name: urban_planning_0
   m_TagString: Untagged
@@ -37593,6 +38750,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1531941443}
   m_CullTransparentMesh: 0
+--- !u!111 &1531941448
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1531941443}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1535330797
 GameObject:
   m_ObjectHideFlags: 0
@@ -38503,6 +39676,7 @@ GameObject:
   - component: {fileID: 1593837661}
   - component: {fileID: 1593837660}
   - component: {fileID: 1593837659}
+  - component: {fileID: 1593837662}
   m_Layer: 5
   m_Name: participation_2_0
   m_TagString: Untagged
@@ -38620,6 +39794,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1593837657}
   m_CullTransparentMesh: 0
+--- !u!111 &1593837662
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1593837657}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1593925806
 GameObject:
   m_ObjectHideFlags: 0
@@ -39009,6 +40199,7 @@ GameObject:
   - component: {fileID: 1613804415}
   - component: {fileID: 1613804414}
   - component: {fileID: 1613804413}
+  - component: {fileID: 1613804417}
   m_Layer: 0
   m_Name: PoI_1
   m_TagString: Untagged
@@ -39104,6 +40295,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1613804411}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1613804417
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613804411}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1622327613
 GameObject:
   m_ObjectHideFlags: 0
@@ -40183,6 +41390,7 @@ GameObject:
   - component: {fileID: 1658530894}
   - component: {fileID: 1658530893}
   - component: {fileID: 1658530892}
+  - component: {fileID: 1658530895}
   m_Layer: 0
   m_Name: urban_planning_0
   m_TagString: Untagged
@@ -40265,6 +41473,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1658530890}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1658530895
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1658530890}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1664254662
 GameObject:
   m_ObjectHideFlags: 0
@@ -41196,6 +42420,7 @@ GameObject:
   - component: {fileID: 1706667565}
   - component: {fileID: 1706667564}
   - component: {fileID: 1706667563}
+  - component: {fileID: 1706667566}
   m_Layer: 5
   m_Name: meadow_0
   m_TagString: Untagged
@@ -41313,6 +42538,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1706667561}
   m_CullTransparentMesh: 0
+--- !u!111 &1706667566
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706667561}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1712065191
 GameObject:
   m_ObjectHideFlags: 0
@@ -41326,6 +42567,7 @@ GameObject:
   - component: {fileID: 1712065195}
   - component: {fileID: 1712065194}
   - component: {fileID: 1712065193}
+  - component: {fileID: 1712065197}
   m_Layer: 0
   m_Name: urban_planning_0
   m_TagString: Untagged
@@ -41421,6 +42663,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1712065191}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1712065197
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1712065191}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &1713561946
 Transform:
   m_ObjectHideFlags: 0
@@ -41995,6 +43253,7 @@ GameObject:
   - component: {fileID: 1731880667}
   - component: {fileID: 1731880666}
   - component: {fileID: 1731880665}
+  - component: {fileID: 1731880669}
   m_Layer: 0
   m_Name: Point of Interest (1)
   m_TagString: Untagged
@@ -42090,6 +43349,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1731880663}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1731880669
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1731880663}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1734099050
 GameObject:
   m_ObjectHideFlags: 0
@@ -43055,6 +44330,7 @@ GameObject:
   - component: {fileID: 1769674599}
   - component: {fileID: 1769674598}
   - component: {fileID: 1769674601}
+  - component: {fileID: 1769674602}
   m_Layer: 0
   m_Name: Urban Gardening
   m_TagString: Untagged
@@ -43150,6 +44426,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newInfo: {fileID: 1095526376355533874, guid: 490c47e750b9e1a448e939fa6530424d, type: 3}
+--- !u!111 &1769674602
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1769674596}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1774477651
 GameObject:
   m_ObjectHideFlags: 0
@@ -43612,6 +44904,7 @@ GameObject:
   - component: {fileID: 1785972848}
   - component: {fileID: 1785972847}
   - component: {fileID: 1785972846}
+  - component: {fileID: 1785972850}
   m_Layer: 0
   m_Name: PoI_1
   m_TagString: Untagged
@@ -43707,6 +45000,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1785972844}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1785972850
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1785972844}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1788735345
 GameObject:
   m_ObjectHideFlags: 0
@@ -43832,6 +45141,7 @@ GameObject:
   - component: {fileID: 1794339019}
   - component: {fileID: 1794339018}
   - component: {fileID: 1794339017}
+  - component: {fileID: 1794339020}
   m_Layer: 5
   m_Name: participation_2_0
   m_TagString: Untagged
@@ -43949,6 +45259,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1794339015}
   m_CullTransparentMesh: 0
+--- !u!111 &1794339020
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1794339015}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1802640244
 GameObject:
   m_ObjectHideFlags: 0
@@ -43961,6 +45287,7 @@ GameObject:
   - component: {fileID: 1802640248}
   - component: {fileID: 1802640247}
   - component: {fileID: 1802640246}
+  - component: {fileID: 1802640249}
   m_Layer: 5
   m_Name: participation_2_0
   m_TagString: Untagged
@@ -44078,6 +45405,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1802640244}
   m_CullTransparentMesh: 0
+--- !u!111 &1802640249
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802640244}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1812860631
 GameObject:
   m_ObjectHideFlags: 0
@@ -45338,6 +46681,7 @@ GameObject:
   - component: {fileID: 1861918704}
   - component: {fileID: 1861918703}
   - component: {fileID: 1861918702}
+  - component: {fileID: 1861918705}
   m_Layer: 5
   m_Name: participation_2_1
   m_TagString: Untagged
@@ -45455,6 +46799,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1861918700}
   m_CullTransparentMesh: 0
+--- !u!111 &1861918705
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1861918700}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &1863260323
 Transform:
   m_ObjectHideFlags: 0
@@ -45498,6 +46858,7 @@ GameObject:
   - component: {fileID: 1865624393}
   - component: {fileID: 1865624392}
   - component: {fileID: 1865624391}
+  - component: {fileID: 1865624395}
   m_Layer: 0
   m_Name: urban_planning_0 (1)
   m_TagString: Untagged
@@ -45593,6 +46954,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1865624389}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1865624395
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1865624389}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1866271975
 GameObject:
   m_ObjectHideFlags: 0
@@ -45753,6 +47130,7 @@ GameObject:
   - component: {fileID: 1880611267}
   - component: {fileID: 1880611266}
   - component: {fileID: 1880611265}
+  - component: {fileID: 1880611269}
   m_Layer: 0
   m_Name: Participation (1)
   m_TagString: Untagged
@@ -45848,6 +47226,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1880611263}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1880611269
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1880611263}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1884809611
 GameObject:
   m_ObjectHideFlags: 0
@@ -46112,6 +47506,7 @@ GameObject:
   - component: {fileID: 1906014431}
   - component: {fileID: 1906014430}
   - component: {fileID: 1906014429}
+  - component: {fileID: 1906014432}
   m_Layer: 5
   m_Name: participation_2_2
   m_TagString: Untagged
@@ -46229,6 +47624,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1906014427}
   m_CullTransparentMesh: 0
+--- !u!111 &1906014432
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1906014427}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1906261885
 GameObject:
   m_ObjectHideFlags: 0
@@ -47356,6 +48767,7 @@ GameObject:
   - component: {fileID: 1963142057}
   - component: {fileID: 1963142056}
   - component: {fileID: 1963142055}
+  - component: {fileID: 1963142058}
   m_Layer: 5
   m_Name: resilience_0
   m_TagString: Untagged
@@ -47473,6 +48885,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1963142053}
   m_CullTransparentMesh: 0
+--- !u!111 &1963142058
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963142053}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1966564640
 GameObject:
   m_ObjectHideFlags: 0
@@ -47739,6 +49167,7 @@ GameObject:
   - component: {fileID: 1973657063}
   - component: {fileID: 1973657062}
   - component: {fileID: 1973657061}
+  - component: {fileID: 1973657064}
   m_Layer: 5
   m_Name: technology_0
   m_TagString: Untagged
@@ -47856,6 +49285,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1973657059}
   m_CullTransparentMesh: 0
+--- !u!111 &1973657064
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1973657059}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1974421020
 GameObject:
   m_ObjectHideFlags: 0
@@ -48031,6 +49476,7 @@ GameObject:
   - component: {fileID: 1980331824}
   - component: {fileID: 1980331823}
   - component: {fileID: 1980331822}
+  - component: {fileID: 1980331825}
   m_Layer: 0
   m_Name: urban_planning_0 (6)
   m_TagString: Untagged
@@ -48113,6 +49559,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1980331820}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &1980331825
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980331820}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1992032584
 GameObject:
   m_ObjectHideFlags: 0
@@ -48743,6 +50205,7 @@ GameObject:
   - component: {fileID: 2006726211}
   - component: {fileID: 2006726210}
   - component: {fileID: 2006726209}
+  - component: {fileID: 2006726213}
   m_Layer: 0
   m_Name: Pollinators
   m_TagString: Untagged
@@ -48838,6 +50301,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2006726207}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &2006726213
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006726207}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &2009740433
 Transform:
   m_ObjectHideFlags: 0
@@ -49063,6 +50542,7 @@ GameObject:
   - component: {fileID: 2030871010}
   - component: {fileID: 2030871009}
   - component: {fileID: 2030871008}
+  - component: {fileID: 2030871011}
   m_Layer: 5
   m_Name: urban_planning_0
   m_TagString: Untagged
@@ -49180,6 +50660,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2030871006}
   m_CullTransparentMesh: 0
+--- !u!111 &2030871011
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030871006}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &2030980082
 GameObject:
   m_ObjectHideFlags: 0
@@ -49427,6 +50923,7 @@ GameObject:
   - component: {fileID: 2035684930}
   - component: {fileID: 2035684929}
   - component: {fileID: 2035684928}
+  - component: {fileID: 2035684931}
   m_Layer: 5
   m_Name: urban_planning_1
   m_TagString: Untagged
@@ -49544,6 +51041,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035684926}
   m_CullTransparentMesh: 0
+--- !u!111 &2035684931
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035684926}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &2037380295
 GameObject:
   m_ObjectHideFlags: 0
@@ -49774,6 +51287,7 @@ GameObject:
   - component: {fileID: 2062119521}
   - component: {fileID: 2062119520}
   - component: {fileID: 2062119519}
+  - component: {fileID: 2062119523}
   m_Layer: 0
   m_Name: urban_planning_0 (3)
   m_TagString: Untagged
@@ -49869,6 +51383,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2062119517}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &2062119523
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062119517}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &2063415889
 GameObject:
   m_ObjectHideFlags: 0
@@ -50341,6 +51871,7 @@ GameObject:
   - component: {fileID: 2087215902}
   - component: {fileID: 2087215901}
   - component: {fileID: 2087215900}
+  - component: {fileID: 2087215903}
   m_Layer: 5
   m_Name: Technology_1
   m_TagString: Untagged
@@ -50458,6 +51989,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2087215898}
   m_CullTransparentMesh: 0
+--- !u!111 &2087215903
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2087215898}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &2089695180
 GameObject:
   m_ObjectHideFlags: 0
@@ -50471,6 +52018,7 @@ GameObject:
   - component: {fileID: 2089695184}
   - component: {fileID: 2089695183}
   - component: {fileID: 2089695182}
+  - component: {fileID: 2089695186}
   m_Layer: 0
   m_Name: urban_planning_3
   m_TagString: Untagged
@@ -50566,6 +52114,22 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2089695180}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!111 &2089695186
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2089695180}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ae01407b5bd9811468faa8d670df23d4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &2096634929
 GameObject:
   m_ObjectHideFlags: 0
@@ -50991,6 +52555,7 @@ GameObject:
   - component: {fileID: 2113675948}
   - component: {fileID: 2113675947}
   - component: {fileID: 2113675946}
+  - component: {fileID: 2113675949}
   m_Layer: 5
   m_Name: participation_2_1
   m_TagString: Untagged
@@ -51108,6 +52673,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2113675944}
   m_CullTransparentMesh: 0
+--- !u!111 &2113675949
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2113675944}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: ef7671ccd54995b43958abffef989541, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!4 &2114312759
 Transform:
   m_ObjectHideFlags: 0
