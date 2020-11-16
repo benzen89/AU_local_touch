@@ -19700,7 +19700,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &766354910
 Transform:
   m_ObjectHideFlags: 0
@@ -53415,6 +53415,14 @@ Behaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1162871276294974}
   m_Enabled: 1
+--- !u!222 &2503102029086750382
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4331999236585765098}
+  m_CullTransparentMesh: 0
 --- !u!222 &2527211136056613524
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -53423,6 +53431,43 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 27646206808021973}
   m_CullTransparentMesh: 0
+--- !u!114 &2936673336484986193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4331999236585765098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 1c42f35ebd036e04aa30dae52c664247, type: 3}
+    m_FontSize: 55
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 5
+    m_MaxSize: 70
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Sk\xE4rholmsdalen, or the Sk\xE4rholmen valley, is planned as an urban
+    corridor connecting northern Sk\xE4rholmen with S\xE4tra. The proposal includes
+    800 new housing options, along with pre-schools, care homes and service amenities.
+    It also includes transforming the main road Sk\xE4rholmsv\xE4gen, which runs
+    just east of Sk\xE4rholmen\u2019s and S\xE4tra\u2019s centres, into an urban
+    street with focus on pedestrians and bicyclists, also including trees and a tramway."
 --- !u!114 &3323597207788249189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53441,7 +53486,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0d54420eec386ea419d9c3945c954a01, type: 3}
+  m_Sprite: {fileID: 21300000, guid: be3c4baefac5aa846a3a1cb4d8707ef2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -53527,7 +53572,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Policy recommendations
+  m_Text: Virtual experience of how nature benefits the city
 --- !u!222 &3415664662306873537
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -53553,7 +53598,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &3415664662306873542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53574,7 +53619,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1c42f35ebd036e04aa30dae52c664247, type: 3}
-    m_FontSize: 55
+    m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
@@ -53585,15 +53630,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "In Ogre, the river-people relationship is more complex. The city and the
-    river are sometimes two opposite forces impacting and even threatening each other's
-    existence. Still, extraordinary measures are continuously implemented in Ogre
-    fighting against flood and ice packing problems. Flood attenuators and dams are
-    designed to serve as a ground for unique public space improvements. \r\nThe best
-    reuse (reconstruction, remodelling) of former water pumping station onsite is
-    to be found by ongoing architectural competition. One of the shortlisted entries
-    reveal the ambitions of Ogre Gate project.  Ogres design contect demonstrates
-    aspiration for advanced resiliency by reuse.\r\n"
+  m_Text: "A vision of Sk\xE4rholmsdalen. Copyright: Nyr\xE9ns Arkitekter and the
+    City of Stockholm."
 --- !u!224 &3415664662306873543
 RectTransform:
   m_ObjectHideFlags: 0
@@ -53610,7 +53648,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: -1293}
+  m_AnchoredPosition: {x: 8, y: -1945.9999}
   m_SizeDelta: {x: 0, y: 2290.8994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &3415664662778772936
@@ -53623,7 +53661,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3415664662778772939}
   m_Layer: 5
-  m_Name: Daugava_visions_3
+  m_Name: Stockholm_Visions_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -53644,6 +53682,7 @@ RectTransform:
   - {fileID: 5508029074733347883}
   - {fileID: 3415664662306873543}
   - {fileID: 7946237570635317834}
+  - {fileID: 7932565490787068918}
   m_Father: {fileID: 260290421}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -53652,6 +53691,24 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1267, y: 2342.8}
   m_Pivot: {x: 0, y: 1}
+--- !u!1 &4331999236585765098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7932565490787068918}
+  - component: {fileID: 2503102029086750382}
+  - component: {fileID: 2936673336484986193}
+  m_Layer: 5
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
 --- !u!224 &5508029074733347883
 RectTransform:
   m_ObjectHideFlags: 0
@@ -53668,7 +53725,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1, y: -6}
+  m_AnchoredPosition: {x: 1, y: -220}
   m_SizeDelta: {x: 1272.2, y: 3601}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &5718639447362355331
@@ -53702,7 +53759,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Ogre
+  m_Text: The prototype invites people of all ages to learn about how nature in the
+    city can help to improve the  living environment and resilience to the local
+    effects of climate change.
 --- !u!222 &5872803769207996142
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -53711,6 +53770,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8905484528613674896}
   m_CullTransparentMesh: 0
+--- !u!224 &7932565490787068918
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4331999236585765098}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3415664662778772939}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 8, y: -2123}
+  m_SizeDelta: {x: 0, y: 2290.8994}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &7946237570635317834
 RectTransform:
   m_ObjectHideFlags: 0
@@ -53720,15 +53798,15 @@ RectTransform:
   m_GameObject: {fileID: 27646206808021973}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.8338997, y: 0.7923383, z: 0.8338997}
+  m_LocalScale: {x: 1.317593, y: 1.2519245, z: 1.317593}
   m_Children: []
   m_Father: {fileID: 3415664662778772939}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -561}
-  m_SizeDelta: {x: 1557, y: 968}
+  m_AnchoredPosition: {x: 0, y: 795}
+  m_SizeDelta: {x: 960, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8905484528613674896
 GameObject:
@@ -53747,4 +53825,4 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
