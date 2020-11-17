@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -12}
+  m_AnchoredPosition: {x: 0, y: -212}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &266982774334427414
@@ -65,7 +65,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 80
+    m_FontSize: 60
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
@@ -76,7 +76,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Daugava
+  m_Text: 'Water and rivers have been a fundamental force for giving shape to our
+    cities. Naturally, water forges connections as it cycles through the city. '
 --- !u!1 &9030280663260659645
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,7 +112,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1008}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &9030280663260659646
@@ -153,7 +154,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: Resilience by the river Daugava
 --- !u!1 &9030280663580430140
 GameObject:
   m_ObjectHideFlags: 0
@@ -188,7 +189,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -510}
+  m_AnchoredPosition: {x: 0, y: -858}
   m_SizeDelta: {x: 0, y: 536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9030280663580430137
@@ -230,7 +231,26 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: placeholder
+  m_Text: "We believe that water can forge connections between people as well; to
+    increase our societies and our cities resilience. We want to strengthen the river-people
+    relationship, and what better way to do it if not stepping into the water ourselves.
+    Here in the Riga Planning region, we are working to test it in real life.\r\n\r\nOur
+    main focus during Augmented Urbans project is a study \u201CResilience by the
+    river\u201D aiming at improving waterfront access and public use while respecting
+    the natural environment. We chose three focus areas on the banks of the river
+    an set out a series of expeditions to explore the focus sites and connect with
+    stakeholders. As we were exploring the sites on the banks of river Daugava, we
+    also evaluated and tested site accessibility and biodiversity. The aim was also
+    to mark and testnew potential waterways from the urban core of Riga to the surrounding
+    municipalities.\r\n\r\nRiga Planning Region aims at encouraging participatory
+    planning, self-led learning-by-doing activities by the locals, as well as increasing
+    sense of ownership amongst stakeholders and acknowledgement of a multitude of
+    perspectives in the very places:\r\n1. Municipality of Ogre: Collaboration with
+    students for the City Gate project and showcasing 3D and VR technologies in design
+    and participation process \r\n2. Municipality of Kekava: River access planning
+    and cross-municipal collaboration with Riga for boating trails and new destinations 
+    \r\n3. City of Riga:  GIS open data platform for increased public engagement
+    and mapping small scale initiatives \r\n"
 --- !u!1 &9030280664047800880
 GameObject:
   m_ObjectHideFlags: 0
