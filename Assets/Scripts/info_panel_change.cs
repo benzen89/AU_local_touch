@@ -28,11 +28,7 @@ public class info_panel_change : MonoBehaviour
         // reset the scroll view
         contentPanel.GetComponent<RectTransform>().anchoredPosition = new Vector2(0,0);
         print("Pissakakakk");
-        //remove duplicates
-        if (contentPanel.transform.childCount > 1)
-        {
-            Destroy(contentPanel.transform.GetChild(0).gameObject);
-        }
+
     }
 
 }
