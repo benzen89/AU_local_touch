@@ -11,6 +11,8 @@ TagManager:
   - Resilience
   - Technology
   - Participation
+  - City
+  - CityButton
   layers:
   - Default
   - TransparentFX

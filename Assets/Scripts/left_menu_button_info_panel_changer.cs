@@ -18,6 +18,8 @@ public class left_menu_button_info_panel_changer : MonoBehaviour
 
     public void ChangeInfo()
     {
+        print("info panel : " + info_Panel_Change + " /// all_panels: " + all_Panels + " /// button index: " + button_index);
         info_Panel_Change.ChangeInfoPanel(all_Panels.current_infos[button_index]);
+        
     }
 }
