@@ -679,7 +679,7 @@ MonoBehaviour:
         m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 4478219302088057525, guid: 3d6812000af45f747891936e3b7545ea,
+          m_ObjectArgument: {fileID: 6507358977969757335, guid: 89a062dc2e0f9bd40914b68a45c9cc21,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -6687,7 +6687,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &279870018
 Transform:
   m_ObjectHideFlags: 0
@@ -15716,7 +15716,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
       propertyPath: m_TagString
@@ -27624,7 +27624,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -27633,7 +27633,7 @@ MonoBehaviour:
         m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 4478219302088057525, guid: 3d6812000af45f747891936e3b7545ea,
+          m_ObjectArgument: {fileID: 4337843339863159304, guid: 761f8d8b2d673de4985fde65b2204ea6,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -27645,7 +27645,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 73603a4c303ff744abee4f984d1ae9a9,
+          m_ObjectArgument: {fileID: 21300000, guid: 3752ba9eeedc94647ad3c866e2723298,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -27668,7 +27668,7 @@ MonoBehaviour:
         m_MethodName: Change_Mini_Map
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: ad844e4e5d909a5498cac7a2249ec41f,
+          m_ObjectArgument: {fileID: 21300000, guid: 4fb56f2c3cf0d6a4c9a4405abdcfca09,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -27680,14 +27680,14 @@ MonoBehaviour:
         m_MethodName: ChangeLeftPanelInfos
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 23129195}
+          m_ObjectArgument: {fileID: 1088196128}
           m_ObjectArgumentAssemblyTypeName: city_left_button_info_panels, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 23129196}
+      - m_Target: {fileID: 1088196129}
         m_MethodName: SetToAbout
         m_Mode: 1
         m_Arguments:
@@ -31750,7 +31750,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 6
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -31759,7 +31759,7 @@ MonoBehaviour:
         m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 4478219302088057525, guid: 3d6812000af45f747891936e3b7545ea,
+          m_ObjectArgument: {fileID: 6499279479431830807, guid: 345c37fd709e0d34886dc6926f07f2f5,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -31771,7 +31771,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 73603a4c303ff744abee4f984d1ae9a9,
+          m_ObjectArgument: {fileID: 21300000, guid: d0174e61244bb2745890841296d0806e,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -31794,7 +31794,7 @@ MonoBehaviour:
         m_MethodName: Change_Mini_Map
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: ad844e4e5d909a5498cac7a2249ec41f,
+          m_ObjectArgument: {fileID: 21300000, guid: 606025a28a1ee664b9e333756f579c3d,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -31806,14 +31806,14 @@ MonoBehaviour:
         m_MethodName: ChangeLeftPanelInfos
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 23129195}
+          m_ObjectArgument: {fileID: 1224349075}
           m_ObjectArgumentAssemblyTypeName: city_left_button_info_panels, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 23129196}
+      - m_Target: {fileID: 1224349076}
         m_MethodName: SetToAbout
         m_Mode: 1
         m_Arguments:
@@ -36463,7 +36463,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -36472,7 +36472,7 @@ MonoBehaviour:
         m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 4478219302088057525, guid: 3d6812000af45f747891936e3b7545ea,
+          m_ObjectArgument: {fileID: 8509870041947477646, guid: cbcf416463de10540901c20652ee0e69,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -36484,7 +36484,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 73603a4c303ff744abee4f984d1ae9a9,
+          m_ObjectArgument: {fileID: 21300000, guid: 827301eb044f898409d176aa580dbf6c,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -36507,7 +36507,7 @@ MonoBehaviour:
         m_MethodName: Change_Mini_Map
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: ad844e4e5d909a5498cac7a2249ec41f,
+          m_ObjectArgument: {fileID: 21300000, guid: c4dc0f47225e9cc499562af23e5537ea,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -36519,14 +36519,14 @@ MonoBehaviour:
         m_MethodName: ChangeLeftPanelInfos
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 23129195}
+          m_ObjectArgument: {fileID: 1414104038}
           m_ObjectArgumentAssemblyTypeName: city_left_button_info_panels, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 23129196}
+      - m_Target: {fileID: 1414104039}
         m_MethodName: SetToAbout
         m_Mode: 1
         m_Arguments:
@@ -39767,7 +39767,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -39776,7 +39776,7 @@ MonoBehaviour:
         m_MethodName: ChangeInfoPanel
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 4478219302088057525, guid: 3d6812000af45f747891936e3b7545ea,
+          m_ObjectArgument: {fileID: 9030280664047800880, guid: ba9f2777c6d92d445bff70ae6c902677,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -39788,7 +39788,7 @@ MonoBehaviour:
         m_MethodName: Change_Planning_Process
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: 73603a4c303ff744abee4f984d1ae9a9,
+          m_ObjectArgument: {fileID: 21300000, guid: 40aa1051e644e364a8bdbc5d6fe795ce,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -39811,7 +39811,7 @@ MonoBehaviour:
         m_MethodName: Change_Mini_Map
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 21300000, guid: ad844e4e5d909a5498cac7a2249ec41f,
+          m_ObjectArgument: {fileID: 21300000, guid: 75f898c052ba658448cda56bb2a18804,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Sprite, UnityEngine
           m_IntArgument: 0
@@ -39823,14 +39823,14 @@ MonoBehaviour:
         m_MethodName: ChangeLeftPanelInfos
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 23129195}
+          m_ObjectArgument: {fileID: 1528192137}
           m_ObjectArgumentAssemblyTypeName: city_left_button_info_panels, Assembly-CSharp
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 23129196}
+      - m_Target: {fileID: 1528192138}
         m_MethodName: SetToAbout
         m_Mode: 1
         m_Arguments:
@@ -55047,7 +55047,7 @@ MonoBehaviour:
   Pitch: 0
   PitchSensitivity: 0.25
   PitchClamp: 1
-  PitchMin: -90
+  PitchMin: 0
   PitchMax: 90
   Yaw: 0
   YawSensitivity: 0.25

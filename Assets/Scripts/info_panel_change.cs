@@ -27,7 +27,6 @@ public class info_panel_change : MonoBehaviour
 
         // reset the scroll view
         contentPanel.GetComponent<RectTransform>().anchoredPosition = new Vector2(0,0);
-        print("Pissakakakk");
 
     }
 
