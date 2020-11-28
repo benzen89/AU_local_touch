@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8216522320677381636
 RectTransform:
   m_ObjectHideFlags: 0
@@ -52,7 +52,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2027322869468512155}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -224,7 +224,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: -2271}
+  m_AnchoredPosition: {x: 8, y: -1383.9994}
   m_SizeDelta: {x: 0, y: 2290.8994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3685817605105910927
@@ -288,12 +288,12 @@ MonoBehaviour:
 
     while at the same time taking into account
 
-    the
-    smooth flow of traffic.
+    the smooth
+    flow of traffic.
 
-    Further planning was commissioned from the winning
-    design team; the results of the competition and further planning forming the
-    basis for the disposition plan.
+    Further planning was commissioned from the winning design
+    team; the results of the competition and further planning forming the basis for
+    the disposition plan.
 
 '
 --- !u!1 &5533160604290942605
@@ -403,7 +403,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1, y: -913.0005}
+  m_AnchoredPosition: {x: 1, y: -26}
   m_SizeDelta: {x: 1272.2, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &5602518159164201632
