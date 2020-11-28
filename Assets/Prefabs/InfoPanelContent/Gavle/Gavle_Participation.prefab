@@ -65,7 +65,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 80
+    m_FontSize: 70
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
@@ -76,7 +76,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Participants
+  m_Text: 'Who has participated:'
 --- !u!1 &4635975936026044319
 GameObject:
   m_ObjectHideFlags: 0
@@ -142,7 +142,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 0ad0ded0d79ac6241b025fe2f7bc820e, type: 3}
-    m_FontSize: 84
+    m_FontSize: 80
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -188,7 +188,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: -1303.9999}
+  m_AnchoredPosition: {x: 8, y: -1291}
   m_SizeDelta: {x: 0, y: 2290.8994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4635975936786290459
@@ -356,6 +356,4 @@ MonoBehaviour:
     environments that would, at the same time, improve the well-being of people as
     well as facilitate a rich urban ecosystem that harbours biodiversity, particularly
     a wide variety of pollinating insects.\r\n\r\nTenants participated in developing
-    the outdoor spaces e. g. by taking care of mini-gardens.\r\n\r\nIndustrial design
-    students have also developed ideas of innovative ways to integrate pollinators
-    and ecosystem services into urban outdoor environments.\r\n"
+    the outdoor spaces e. g. by taking care of mini-gardens.\r\n"
