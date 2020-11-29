@@ -30,11 +30,11 @@ RectTransform:
   m_LocalScale: {x: 0.32101497, y: 0.32101497, z: 0.32101497}
   m_Children: []
   m_Father: {fileID: 1900509730255311520}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4, y: -1118}
+  m_AnchoredPosition: {x: -4, y: -298}
   m_SizeDelta: {x: 4031.9998, y: 2458.9685}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &267263602224156610
@@ -180,7 +180,6 @@ RectTransform:
   - {fileID: 1900509729467514671}
   - {fileID: 8739626694325033792}
   - {fileID: 1900509730731003820}
-  - {fileID: 5194000531486162011}
   - {fileID: 8255420358792439031}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -224,7 +223,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: -2209}
+  m_AnchoredPosition: {x: 8, y: -1388.9999}
   m_SizeDelta: {x: 0, y: 2290.8994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1900509730731003818
@@ -271,79 +270,6 @@ MonoBehaviour:
     pilot site Nordost\r\n- Increased knowledge regarding Ecosystem services and
     pollinators\r\n- Ecosystem services included in the municipalities Architecture
     policy in G\xE4vle\r\n- Media attention\r\n"
---- !u!1 &3056660727520215421
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 5194000531486162011}
-  - component: {fileID: 4117217960208634623}
-  - component: {fileID: 8785713633350026214}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &5194000531486162011
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3056660727520215421}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.32101497, y: 0.32101497, z: 0.32101497}
-  m_Children: []
-  m_Father: {fileID: 1900509730255311520}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4, y: 785}
-  m_SizeDelta: {x: 4031.9998, y: 2458.9685}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &4117217960208634623
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3056660727520215421}
-  m_CullTransparentMesh: 0
---- !u!114 &8785713633350026214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3056660727520215421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0f84d84d2a07bf741b0b0d98ac501edf, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &5669950089922322683
 GameObject:
   m_ObjectHideFlags: 0
@@ -378,7 +304,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1, y: -870}
+  m_AnchoredPosition: {x: 1, y: -50.000122}
   m_SizeDelta: {x: 1272.2, y: 3601}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &7257960400203108741

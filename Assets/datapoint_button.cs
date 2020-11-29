@@ -15,7 +15,7 @@ public class datapoint_button : MonoBehaviour
         info_Panel_Change = GameObject.Find("Canvas").GetComponent<info_panel_change>();
         infoDisplay = GameObject.Find("info_image_display").GetComponent<Image>();
     }
-    private void OnMouseDown()
+    public void OnMouseDown()
     {
         info_Panel_Change.ChangeInfoPanel(newInfo);
         if (newSprite != null) //set newSprite as the new image on viewer, if a sprite has been specified

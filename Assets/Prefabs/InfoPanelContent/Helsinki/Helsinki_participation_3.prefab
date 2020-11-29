@@ -1,78 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1423898845617194715
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 9072000727750221636}
-  - component: {fileID: 3509141129795143578}
-  - component: {fileID: 4449352393976790379}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &9072000727750221636
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1423898845617194715}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.8578027, y: 0.8578027, z: 0.8578027}
-  m_Children: []
-  m_Father: {fileID: 4379307025109065925}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 751}
-  m_SizeDelta: {x: 1500, y: 1000}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &3509141129795143578
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1423898845617194715}
-  m_CullTransparentMesh: 0
---- !u!114 &4449352393976790379
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1423898845617194715}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 725d90d8e93f98e41b12230ee7ceefce, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &4379307024284945739
 GameObject:
   m_ObjectHideFlags: 0
@@ -107,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1008}
+  m_AnchoredPosition: {x: 0, y: 649.9999}
   m_SizeDelta: {x: 1267.0004, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &4379307024284945736
@@ -184,7 +111,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: -3048}
+  m_AnchoredPosition: {x: 8, y: -1389.9999}
   m_SizeDelta: {x: 0, y: 2290.8994}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4379307024632004047
@@ -229,9 +156,9 @@ MonoBehaviour:
   m_Text: "A two-week pop-up space in Teollisuuskatu to communicate the planning
     project to stakeholders and citizens and to gather information about the area,
     including which routes people take, perceived good and bad places, strengths
-    and characteristics, and remarks on the condition of properties.\r\n\r\nThe idea
-    of \u200Bthe pop-up space was to invite passers-by, residents, landowners and
-    companies to discuss the future of their neighborhood and to test XR technology
+    and characteristics, and remarks on the condition of properties.\r\n\n\n\n\n\n\n\n\n\n\n\n\n\r\nThe
+    idea of \u200Bthe pop-up space was to invite passers-by, residents, landowners
+    and companies to discuss the future of their neighborhood and to test XR technology
     as a participation and communication tool. Urban planners made themselves available
     in the pop-up to interact and discuss with visitors who were able to explore
     the site area in virtual reality (VR) as well as study the site and test their
@@ -266,7 +193,6 @@ RectTransform:
   - {fileID: 4379307024284945738}
   - {fileID: 6904298750877296933}
   - {fileID: 4379307024632004041}
-  - {fileID: 9072000727750221636}
   - {fileID: 410196022179368112}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -306,11 +232,11 @@ RectTransform:
   m_LocalScale: {x: 0.52356124, y: 0.52356124, z: 0.52356124}
   m_Children: []
   m_Father: {fileID: 4379307025109065925}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -43}
+  m_AnchoredPosition: {x: 0, y: -80}
   m_SizeDelta: {x: 2400.5862, y: 1600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6259039982408497778
@@ -383,7 +309,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1, y: -1690.0002}
+  m_AnchoredPosition: {x: 1, y: -32.000366}
   m_SizeDelta: {x: 1272.2, y: 1490.2002}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &4765071778420646880
