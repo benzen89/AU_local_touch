@@ -7,9 +7,12 @@ public class stop_video : MonoBehaviour
 {
     GameObject playbackSphere;
 
+    Lean.Touch.LeanPitchYawSmooth yaw;
+
     void Start()
     {
         playbackSphere = GameObject.Find("VideoPlaybackSphere");
+        yaw = GameObject.Find("Camera Pivot").GetComponent<Lean.Touch.LeanPitchYawSmooth>();
     }
 
     public void StopVideo(){
@@ -20,5 +23,10 @@ public class stop_video : MonoBehaviour
         AudioSource ap = playbackSphere.GetComponent<AudioSource>();
         ap.clip = null;
         ap.Stop();
+
+        // Reset yaw and limit to 180 horizontal view range
+        yaw.Yaw = 0;
+        yaw.YawMin = -90;
+        yaw.YawMax = 90;
     }
 }

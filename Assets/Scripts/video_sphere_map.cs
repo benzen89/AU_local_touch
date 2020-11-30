@@ -17,9 +17,12 @@ public class video_sphere_map : MonoBehaviour
 
     GameObject playbackSphere;
 
+    Lean.Touch.LeanPitchYawSmooth yaw;
+
     void Start()
     {
         playbackSphere = GameObject.Find("VideoPlaybackSphere");
+        yaw = GameObject.Find("Camera Pivot").GetComponent<Lean.Touch.LeanPitchYawSmooth>();
     }
 
     void OnMouseDown(){
@@ -31,6 +34,10 @@ public class video_sphere_map : MonoBehaviour
         AudioSource ap = playbackSphere.GetComponent<AudioSource>();
         ap.clip = myAudio;
         ap.Play();
+
+        // Allow 360 horizontal rotation
+        yaw.YawMin = -180;
+        yaw.YawMax = 180;
 
         //disable minimap
         GameObject minimap;
