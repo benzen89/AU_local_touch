@@ -13,6 +13,8 @@ public class video_sphere_map : MonoBehaviour
 
     public VideoClip myClip;
 
+    public AudioClip myAudio;
+
     GameObject playbackSphere;
 
     void Start()
@@ -21,10 +23,14 @@ public class video_sphere_map : MonoBehaviour
     }
 
     void OnMouseDown(){
-        Debug.Log("asd");
+        // Play 360 video
         VideoPlayer vp = playbackSphere.GetComponent<VideoPlayer>();
         vp.clip = myClip;
         vp.Play();
+
+        AudioSource ap = playbackSphere.GetComponent<AudioSource>();
+        ap.clip = myAudio;
+        ap.Play();
 
         //disable minimap
         GameObject minimap;

@@ -16,5 +16,9 @@ public class stop_video : MonoBehaviour
         VideoPlayer vp = playbackSphere.GetComponent<VideoPlayer>();
         vp.clip = null;
         vp.Stop();
+
+        AudioSource ap = playbackSphere.GetComponent<AudioSource>();
+        ap.clip = null;
+        ap.Stop();
     }
 }
