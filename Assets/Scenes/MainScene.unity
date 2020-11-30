@@ -1210,6 +1210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 5fbe192e3d19fca438ff7f436087e4c8, type: 3}
+  myAudio: {fileID: 8300000, guid: 3a4baf251c1814716b9458d036384a76, type: 3}
 --- !u!135 &39127883
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1303,6 +1304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 93cf234738ae6fb4eb1ba374c04c1179, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &46264581
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2581,6 +2583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: afc7153b150ecad429eec6b1e4f514fd, type: 3}
+  myAudio: {fileID: 8300000, guid: 494bd1721199a40c5a79fa3011793556, type: 3}
 --- !u!135 &91571694
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3271,6 +3274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 77732c15c1d10ba46a68efe446e3b549, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &116981506
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3459,6 +3463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 909e7c221c40bb14da4e071ba06c861d, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &126467556
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -3794,6 +3799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 20894d4c75bce994884f7b8f817f5580, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &146611768
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -4669,6 +4675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 43f215099caf51d428c1dda9a82c6453, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &195265153
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5171,6 +5178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 256dc1ca44f22884686e0486a2364675, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &212874630
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -6091,7 +6099,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 257568978}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.17, y: -6.09, z: -13.36}
+  m_LocalPosition: {x: -6.17, y: -6.09, z: -8.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 578680090}
@@ -6105,7 +6113,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 257568978}
-  m_Text: Hello World
+  m_Text: Billboard
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -6601,6 +6609,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: a3cc6c5056483844b84198248e44cd66, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &266667035
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7113,6 +7122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 86d86ecdeba8c4447b034bdbf918b382, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &284644562
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8675,6 +8685,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: d0111611c7eda8949bda14a9f514e03d, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &341973955
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9137,6 +9148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: c18fc746d0a51a84a9dc9769ca6520e5, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &357263565
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -9489,6 +9501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 4785f85cf9abbd44983c5dff8323e4e0, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &371467331
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10627,6 +10640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: db2d6589434a4964da7d7f639734d83e, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &424090646
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -10940,6 +10954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 9338a730bc6b7914695354f092ef24ec, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &432453046
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11179,6 +11194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: b181f50e8f29a4d4da1f248de37e60a2, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &435257421
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -11780,6 +11796,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: aab317b1f7edc2647869c056395fc4e7, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &463194161
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12003,6 +12020,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 545be27dc8d8d5540908b1a6b3e5cef1, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &467089113
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13334,6 +13352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: a7126bf65ae246b4281bde4ad55a5eb1, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &489172968
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -13938,6 +13957,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 6d799d1014c28a24c83671a54f884cd9, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &517271223
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -20836,6 +20856,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 3b1f35ed5ea71034682f01542830926e, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &766766872
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -21801,6 +21822,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: bab964f48a85caa4c9ae834318a68f04, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &816013071
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -21894,6 +21916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 474d9f3a5d2f2674ebeea787caa43aa5, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &816698289
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -22418,6 +22441,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 49c54c75278b8c34dbbc1edafbe9c622, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &831564722
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -22745,6 +22769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: c7f0cb077df84a6448345ce9565556ef, type: 3}
+  myAudio: {fileID: 8300000, guid: 354c37cd61ec24bbcbbc7921d0a71bc1, type: 3}
 --- !u!135 &835089469
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -24525,6 +24550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 0997723a594ab42439de0d23d0556f3e, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &962180724
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -25648,6 +25674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 314cafafe6cc797418febdfc1fa00b5a, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1032493474
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -25945,6 +25972,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 64b9df2c29313224baee1a921c7e04f6, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1058306540
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -27723,6 +27751,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 2e380cfd1a2a24c4a92db50ddc8dcbb1, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1119973048
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -32132,6 +32161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 177077610a8fe8641ad214944ea4338c, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1273088316
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -33174,6 +33204,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: ff5a7a9a6de576848a46dc5d34600aeb, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1309748277
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -34342,6 +34373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 45dd86cd5efc4fc4191fe02288871fe2, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1348466915
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -34846,6 +34878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 608c2a4b195f7cd418acb2ea581dcf71, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1374850792
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -35910,6 +35943,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: d6bf3622bd249f248bf553db367f3b5f, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1409623728
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -36644,6 +36678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: bf6edd3e8458ab64cba060f461071192, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1429866372
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -38842,6 +38877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 1960d2dfcfc12a44e9cacd3b4b4bc026, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1511897420
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -39268,6 +39304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 9ab8a269d3cd10a459e3d394e2603145, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1531085552
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -42499,6 +42536,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 74b611a246020fa42942e1d429f8cacd, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1664596471
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -44319,6 +44357,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 4a582c4e4f91b7941bfdb60a7514f0e3, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1729278323
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -47241,6 +47280,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: c9a5ea7d7d6ec554da4c64ede5cd7007, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1840977895
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -47459,6 +47499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: ae444a5c291827b4aad7346521df168e, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1845702408
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -47859,6 +47900,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: a7a627a5ed15f5045ac9e17c2a9c741a, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1856869784
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -49216,6 +49258,102 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1154654092}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &1909468807
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909468802}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!4 &1918705110 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4448933244690968, guid: 162c9bb2676c5440a9ed25a3b813a31e,
@@ -49868,6 +50006,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myClip: {fileID: 32900000, guid: 565f182ea6011cf4a8f463061e585ae6, type: 3}
+  myAudio: {fileID: 0}
 --- !u!135 &1954856104
 SphereCollider:
   m_ObjectHideFlags: 0
