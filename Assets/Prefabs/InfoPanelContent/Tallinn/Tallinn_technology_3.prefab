@@ -81,6 +81,152 @@ MonoBehaviour:
     a place that has sufficient privacy. The activity pockets contain various elements
     such as swings, football fields, platforms, grills, benches, etc. The larger
     activity pocket accommodates a football field separated by a fence.
+--- !u!1 &4374242387132207650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5694892606278810181}
+  - component: {fileID: 1181811972165311062}
+  - component: {fileID: 2713252327585518462}
+  m_Layer: 5
+  m_Name: Image (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5694892606278810181
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4374242387132207650}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.57375, y: 0.57375, z: 0.57375}
+  m_Children: []
+  m_Father: {fileID: 8608122715546732646}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -3316}
+  m_SizeDelta: {x: 2220.723, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1181811972165311062
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4374242387132207650}
+  m_CullTransparentMesh: 0
+--- !u!114 &2713252327585518462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4374242387132207650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 338408fb7ee33ed489be061b28fae612, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &7658640745144739738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4080045146849377474}
+  - component: {fileID: 58280547164826093}
+  - component: {fileID: 1015236044586868641}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4080045146849377474
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7658640745144739738}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.57375, y: 0.57375, z: 0.57375}
+  m_Children: []
+  m_Father: {fileID: 8608122715546732646}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -1884}
+  m_SizeDelta: {x: 2220.723, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &58280547164826093
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7658640745144739738}
+  m_CullTransparentMesh: 0
+--- !u!114 &1015236044586868641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7658640745144739738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: e3033067fb2428b43825f31e9c7f4ed8, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &8608122715546732645
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,6 +257,8 @@ RectTransform:
   - {fileID: 8608122716873909737}
   - {fileID: 1468351237822546310}
   - {fileID: 8608122716153566570}
+  - {fileID: 4080045146849377474}
+  - {fileID: 5694892606278810181}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -200,10 +348,11 @@ MonoBehaviour:
     terraces surround the caf\xE9 and greenhouse adapted from high-voltage masts.
     There are pockets with benches and a table in the area for outdoor lessons and
     picnics as well as some barbecue areas. A viewing platform is planned on the
-    railway dam looking towards Kolde Blvd.\r\n \r\nRegarding the function and placement
-    of the activity sites many suggestions from citizens, which were submitted during
-    crowd-sourcing that took place in spring 2019, were taken into account but some
-    additional functions suitable for the area have also been proposed.\r\n"
+    railway dam looking towards Kolde Blvd.\r\n \r\n\n\n\n\n\n\n\n\nRegarding the
+    function and placement of the activity sites many suggestions from citizens,
+    which were submitted during crowd-sourcing that took place in spring 2019, were
+    taken into account but some additional functions suitable for the area have also
+    been proposed.\r\n"
 --- !u!1 &8608122716873909736
 GameObject:
   m_ObjectHideFlags: 0

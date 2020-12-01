@@ -1,5 +1,78 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1533624897841910412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5639861440803905549}
+  - component: {fileID: 3471746189246702072}
+  - component: {fileID: 3490684375770309305}
+  m_Layer: 5
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5639861440803905549
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533624897841910412}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.56951, y: 0.56951, z: 0.56951}
+  m_Children: []
+  m_Father: {fileID: 1568183466940295062}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -2, y: -1999.9999}
+  m_SizeDelta: {x: 2220.723, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &3471746189246702072
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533624897841910412}
+  m_CullTransparentMesh: 0
+--- !u!114 &3490684375770309305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533624897841910412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: a587896be54f2ff41ad9f01e4b271363, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &1568183465579563544
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,8 +184,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1613.9999}
-  m_SizeDelta: {x: 0, y: 536}
+  m_AnchoredPosition: {x: 0, y: -2036.1152}
+  m_SizeDelta: {x: 0, y: 1380.2295}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1568183466476075676
 CanvasRenderer:
@@ -160,11 +233,11 @@ MonoBehaviour:
     dining table and people an aesthetically pleasing experience from spring to autumn.
     For insect-friendly plant communities, first and foremost it is important to
     maintain and expand the existing species-rich communities and increase the distribution
-    of plant species essential to insects. \r\n\r\nThe plants you see in augmented
-    reality \u2013 Rosebay Willowherb, Cowslip and Meadowsweet \u2013 represent three
-    communities made up of dozens of species, all of which provide diverse insect
-    fauna. The colony \u201CCowslip\u201D grows in drier places, whereas more fertile
-    soils are suitable for \u201CRosebay Willowherb\u201D, \u201CMeadowsweet\u201D
+    of plant species essential to insects. \r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\nThe
+    plants you see in augmented reality \u2013 Rosebay Willowherb, Cowslip and Meadowsweet
+    \u2013 represent three communities made up of dozens of species, all of which
+    provide diverse insect fauna. The colony \u201CCowslip\u201D grows in drier places,
+    whereas more fertile soils are suitable for \u201CRosebay Willowherb\u201D, \u201CMeadowsweet\u201D
     forms a taller colony in wetter areas. All three provide diverse insect fauna.\r\n"
 --- !u!1 &1568183466940295061
 GameObject:
@@ -196,6 +269,8 @@ RectTransform:
   - {fileID: 1568183465579563545}
   - {fileID: 8562993424835587702}
   - {fileID: 1568183466476075674}
+  - {fileID: 5639861440803905549}
+  - {fileID: 6850287237369170892}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -284,3 +359,76 @@ MonoBehaviour:
     spaces in cities improve our wellbeing and keep our spirits alert. Replacing
     the overhead power lines with an underground cable will free up a 50-metre-wide
     area to create a new linear park on the Pollinator Highway. \r\n"
+--- !u!1 &7297212636449629735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6850287237369170892}
+  - component: {fileID: 8254861577673067510}
+  - component: {fileID: 3467774359853525451}
+  m_Layer: 5
+  m_Name: Image (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6850287237369170892
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7297212636449629735}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.56951, y: 0.56951, z: 0.56951}
+  m_Children: []
+  m_Father: {fileID: 1568183466940295062}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -2, y: -2613}
+  m_SizeDelta: {x: 2220.723, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &8254861577673067510
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7297212636449629735}
+  m_CullTransparentMesh: 0
+--- !u!114 &3467774359853525451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7297212636449629735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: a81ee701a6efb0f49b9472770ed35d1a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
