@@ -13,6 +13,7 @@ TagManager:
   - Participation
   - City
   - CityButton
+  - SideButton
   layers:
   - Default
   - TransparentFX
